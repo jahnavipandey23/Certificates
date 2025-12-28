@@ -1,2 +1,5 @@
-# Certificates
-Collection of my academic and non-academic certificates
+# Certificates 📜✨
+
+This folder contains all my certificates
+They represent important milestones from my academic journey 🌱
+
